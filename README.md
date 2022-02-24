@@ -1,6 +1,6 @@
 # MG100 Manifest Repo
 
->**Note:** Not recommended for new designs.  Use https://github.com/LairdCP/Pinnacle-100-Firmware-Manifest.git.
+## **Note:** Not recommended for new designs. Use https://github.com/LairdCP/Pinnacle-100-Firmware-Manifest.
 
 ## Using the MG100
 
